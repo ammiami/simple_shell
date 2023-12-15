@@ -140,7 +140,7 @@ int replace_vars(info_t *info)
 }
 
 /**
- * replace_string - replaces string
+ * replace_string -  replaces string
  * @old: address of old string
  * @new: new string
  *
